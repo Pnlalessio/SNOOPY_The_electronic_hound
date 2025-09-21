@@ -183,7 +183,7 @@ The system can distinguish **8 odor classes**:
 - ⚠️ **Cocoa** → weaker performance (chemical similarity with tea and chamomile)  
 - 🧑‍🤝‍🧑 Usability tests with 6 participants → positive feedback on app & Alexa control
   
-- Demo videos are in the presentation
+- Demo videos are in the [presentation](Presentazione.pptx)
 
 ---
 
