@@ -9,6 +9,8 @@
 The sense of smell strongly influences our emotions and even our taste perception (**about 80%** of what we taste actually comes from smell).  
 It’s not only about emotions: detecting odors can save our lives, for example by recognizing a **gas leak**.  
 
+![Intro](project_images/Intro.jpg)
+
 This is why we created **SNOOPY**, our **electronic nose**, integrated with:  
 - 📱 **Mobile App** for remote monitoring  
 - 🎙️ **Alexa Skill** for voice interaction  
@@ -23,7 +25,9 @@ The project is based on **4 main components**:
    - Microcontroller **Wio Terminal**  
    - Sensors to detect the chemical composition of the air  
    - Odor classification capability  
-   - Internet connectivity + integrated display  
+   - Internet connectivity + integrated display
+
+![Electronic_Nose](project_images/Electronic_Nose.jpg)
 
 2. ☁️ **Blynk Cloud**  
    - Data storage and management  
@@ -38,6 +42,8 @@ The project is based on **4 main components**:
    - Voice interaction through commands  
    - HTTP GET requests to Blynk  
    - Spoken responses about current odors and air composition  
+
+![Blynk_Cloud](project_images/Blynk_Cloud.jpg)
 
 ---
 
