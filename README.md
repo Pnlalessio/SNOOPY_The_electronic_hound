@@ -49,20 +49,29 @@ The project is based on **4 main components**:
 
 ## 🔌 Hardware Used  
 
-- 🧠 **Wio Terminal** (microcontroller, display, WiFi connectivity)  
+- 🧠 **Wio Terminal** (microcontroller, display, WiFi connectivity)
+
+![wio](project_images/wio.jpg)
+
 - 🌫️ **Grove - Gas Sensor V2 (Multichannel)**  
   - CO (Carbon Monoxide)  
   - NO2 (Nitrogen Dioxide)  
   - Ethanol (C2H5CH)  
-  - VOC (Volatile Organic Compounds)  
+  - VOC (Volatile Organic Compounds)
+ 
+![gas_sensor_v](project_images/gas_sensor_v.jpg)
 
 - 🌱 **Grove - VOC & eCO2 Gas Sensor (SGP30)**  
-  - Measures **TVOC** and **CO2**  
+  - Measures **TVOC** and **CO2**
+ 
+![SGP](project_images/SGP.jpg)
 
 - 🌡️ **Grove - Temperature Humidity Pressure Gas (BME680)**  
   - Temperature  
   - Pressure  
-  - Humidity  
+  - Humidity
+ 
+![BME](project_images/BME.jpg)
 
 ---
 
@@ -81,6 +90,10 @@ The system can distinguish **8 odor classes**:
 
 👉 In particular, **lighter gas** detection was designed as a simulation of a **gas leak**.  
 
+![martini](project_images/martini.jpg)
+![distribuzioni_dati](project_images/distribuzioni_dati.jpg)
+![metrics](project_images/metrics.jpg)
+
 ---
 
 ## 📊 Data Collection  
@@ -89,6 +102,8 @@ The system can distinguish **8 odor classes**:
 - 📍 Locations: **Pofi (FR)** and **Cori (LT)**  
 - 🌦️ Variable **humidity, temperature, and time of day**  
 - 🗃️ Final dataset: **86,912 instances**  
+
+![distribuzioni_dati](project_images/distribuzioni_dati.jpg) 
 
 ---
 
@@ -102,6 +117,8 @@ The system can distinguish **8 odor classes**:
 
 3. 🚨 **Anomaly Detector** to reduce misclassifications  
 
+![modello](project_images/modello.jpg) 
+
 ### 📈 Results  
 - **Overall Accuracy**: 98%  
 - **F1-score**:  
@@ -109,6 +126,8 @@ The system can distinguish **8 odor classes**:
   - Cocoa: 0.98  
   - Tea: 0.97  
 - 💡 **Lighter gas** detection highly reliable (crucial for safety).  
+
+![performance](project_images/performance.jpg) 
 
 ---
 
@@ -131,7 +150,13 @@ The system can distinguish **8 odor classes**:
 - ❌ Red = critical condition  
 - 🔔 Sound + haptic notifications  
 - 🔇 Sound toggle via **Wio Terminal button** (icon updates on screen).  
-
+ 
+<p align="center">
+  <img src="project_images/coffee_on_wio.jpg" alt="Image 1" width="22%"/>
+  <img src="project_images/interfacce_coffee_gouge.jpg" alt="Image 2" width="22%"/>
+  <img src="project_images/lighter_gas_on_wio.jpg" alt="Image 3" width="22%"/>
+  <img src="project_images/lighter_gas_interfacce.jpg" alt="Image 4" width="22%"/>
+</p>
 ---
 
 ## 🎙️ Alexa Skill  
@@ -144,6 +169,11 @@ The system can distinguish **8 odor classes**:
   - Ask for single values (**CO, Ethanol, Temperature**, etc.)  
 - Error handling and adaptive responses  
 
+<p align="center">
+  <img src="project_images/alexa_skill.jpg" alt="Image 1" width="60%"/>
+  <img src="project_images/alexa_skill_requests.jpg" alt="Image 2" width="30%"/>
+</p>
+
 ---
 
 ## 📊 Real-Time Performance  
@@ -151,16 +181,13 @@ The system can distinguish **8 odor classes**:
 - ✅ Odors like **background, vinegar, martini, coffee, tea, lighter gas** → correctly classified  
 - ⚠️ **Chamomile** → slower recognition  
 - ⚠️ **Cocoa** → weaker performance (chemical similarity with tea and chamomile)  
-- 🧑‍🤝‍🧑 Usability tests with 6 participants → positive feedback on app & Alexa control  
+- 🧑‍🤝‍🧑 Usability tests with 6 participants → positive feedback on app & Alexa control
+- Demo videos are in the presentation
 
 ---
 
-## 🏆 Conclusions  
-
-SNOOPY shows how artificial smell can be:  
-- 👃 An innovative **sensory experiment**  
-- 🏠 A **home safety device**  
-- 📲 A **multi-channel system** (mobile + voice)  
-- 🤖 A real-world example of **AI on edge devices**  
+## Authors
+- [@Pnlalessio](https://github.com/Pnlalessio)  
+- [@JessicaFrabotta](https://github.com/JessicaFrabotta)
 
 ---
