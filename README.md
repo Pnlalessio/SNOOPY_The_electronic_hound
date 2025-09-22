@@ -131,7 +131,7 @@ The system can distinguish **8 odor classes**:
 - 💡 **Lighter gas** detection highly reliable (crucial for safety).  
 
 <div align="center">
-  <img src="project_images/results.jpeg" width="350">
+  <img src="project_images/results.jpeg" width="400">
 </div>
 
 ---
