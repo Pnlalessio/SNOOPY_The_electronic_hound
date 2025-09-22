@@ -71,6 +71,10 @@ The project is based on **4 main components**:
   - Temperature  
   - Pressure  
   - Humidity
+ 
+<div align="center">
+  <img src="project_images/hardware.png" width="450">
+</div>
 ---
 
 ## 👃 Odors Classified  
