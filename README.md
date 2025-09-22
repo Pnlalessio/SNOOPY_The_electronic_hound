@@ -172,11 +172,6 @@ The system can distinguish **8 odor classes**:
   - Ask for single values (**CO, Ethanol, Temperature**, etc.)  
 - Error handling and adaptive responses  
 
-<p align="center">
-  <img src="project_images/alexa_skill.jpg" alt="Image 1" width="60%"/>
-  <img src="project_images/alexa_skill_requests.jpg" alt="Image 2" width="30%"/>
-</p>
-
 ---
 
 ## 📊 Real-Time Performance  
