@@ -100,9 +100,11 @@ The system can distinguish **8 odor classes**:
 - 🔢 **8 odors × 9 measurements** each  
 - 📍 Locations: **Pofi (FR)** and **Cori (LT)**  
 - 🌦️ Variable **humidity, temperature, and time of day**  
-- 🗃️ Final dataset: **86,912 instances**  
+- 🗃️ Final dataset: **86,912 instances**
 
-
+<div align="center">
+  <img src="project_images/collect.jpeg" width="700">
+</div>
 
 ---
 
