@@ -10,7 +10,7 @@ The sense of smell strongly influences our emotions and even our taste perceptio
 It’s not only about emotions: detecting odors can save our lives, for example by recognizing a **gas leak**.  
 
 <div align="center">
-  <img src="project_images/Intro.jpeg" width="500" alt="Raspby">
+  <img src="project_images/Intro.jpeg" width="400">
 </div>
 
 This is why we created **SNOOPY**, our **electronic nose**, integrated with:  
