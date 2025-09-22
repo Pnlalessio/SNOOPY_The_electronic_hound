@@ -48,7 +48,9 @@ The project is based on **4 main components**:
    - HTTP GET requests to Blynk  
    - Spoken responses about current odors and air composition  
 
-![Blynk_Cloud](project_images/Blynk_Cloud.jpg)
+<div align="center">
+  <img src="project_images/Blynk_Cloud.jpg" width="400">
+</div>
 
 ---
 
