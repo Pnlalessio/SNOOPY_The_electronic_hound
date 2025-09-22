@@ -49,7 +49,7 @@ The project is based on **4 main components**:
    - Spoken responses about current odors and air composition  
 
 <div align="center">
-  <img src="project_images/Blynk_Cloud.jpg" width="400">
+  <img src="project_images/Blynk_Cloud.jpg" width="450">
 </div>
 
 ---
