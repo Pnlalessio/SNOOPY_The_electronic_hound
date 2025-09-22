@@ -58,28 +58,19 @@ The project is based on **4 main components**:
 
 - 🧠 **Wio Terminal** (microcontroller, display, WiFi connectivity)
 
-![wio](project_images/wio.jpg)
-
 - 🌫️ **Grove - Gas Sensor V2 (Multichannel)**  
   - CO (Carbon Monoxide)  
   - NO2 (Nitrogen Dioxide)  
   - Ethanol (C2H5CH)  
   - VOC (Volatile Organic Compounds)
- 
-![gas_sensor_v](project_images/gas_sensor_v.jpg)
 
 - 🌱 **Grove - VOC & eCO2 Gas Sensor (SGP30)**  
   - Measures **TVOC** and **CO2**
- 
-![SGP](project_images/SGP.jpg)
 
 - 🌡️ **Grove - Temperature Humidity Pressure Gas (BME680)**  
   - Temperature  
   - Pressure  
   - Humidity
- 
-![BME](project_images/BME.jpg)
-
 ---
 
 ## 👃 Odors Classified  
