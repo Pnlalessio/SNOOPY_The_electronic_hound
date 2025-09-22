@@ -155,10 +155,6 @@ The system can distinguish **8 odor classes**:
 - ❌ Red = critical condition  
 - 🔔 Sound + haptic notifications  
 - 🔇 Sound toggle via **Wio Terminal button** (icon updates on screen).  
- 
-<div align="center">
-  <img src="project_images/mosaico.PNG" width="600">
-</div>
 
 ---
 
@@ -182,6 +178,10 @@ The system can distinguish **8 odor classes**:
 - 🧑‍🤝‍🧑 Usability tests with 6 participants → positive feedback on app & Alexa control
   
 - Demo videos are in the [presentation](Presentazione.pptx).
+
+  <div align="center">
+  <img src="project_images/mosaico.PNG" width="600">
+</div>
 
 ---
 
