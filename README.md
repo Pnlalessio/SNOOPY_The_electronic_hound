@@ -130,7 +130,9 @@ The system can distinguish **8 odor classes**:
   - Tea: 0.97  
 - 💡 **Lighter gas** detection highly reliable (crucial for safety).  
 
-![performance](project_images/performance.jpg) 
+<div align="center">
+  <img src="project_images/results.jpeg" width="400">
+</div>
 
 ---
 
