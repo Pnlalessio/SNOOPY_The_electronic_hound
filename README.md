@@ -120,6 +120,10 @@ The system can distinguish **8 odor classes**:
 
 ![modello](project_images/modello.jpg) 
 
+<div align="center">
+  <img src="project_images/NN.jpeg" width="400">
+</div>
+
 ### 📈 Results  
 - **Overall Accuracy**: 98%  
 - **F1-score**:  
