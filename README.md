@@ -30,7 +30,7 @@ The project is based on **4 main components**:
    - Internet connectivity + integrated display
 
 <div align="center">
-  <img src="project_images/Electronic_Nose.jpg" width="400">
+  <img src="project_images/Electronic_Nose.jpg" width="500">
 </div>
 
 
