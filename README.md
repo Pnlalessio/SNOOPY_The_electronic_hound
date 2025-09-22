@@ -73,8 +73,9 @@ The project is based on **4 main components**:
   - Humidity
  
 <div align="center">
-  <img src="project_images/hardware.png" width="650">
+  <img src="project_images/hardware.png" width="700">
 </div>
+
 ---
 
 ## 👃 Odors Classified  
