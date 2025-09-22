@@ -103,7 +103,7 @@ The system can distinguish **8 odor classes**:
 - 🗃️ Final dataset: **86,912 instances**
 
 <div align="center">
-  <img src="project_images/collect.jpeg" width="700">
+  <img src="project_images/collect.jpeg" width="400">
 </div>
 
 ---
