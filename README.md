@@ -118,8 +118,6 @@ The system can distinguish **8 odor classes**:
 
 3. 🚨 **Anomaly Detector** to reduce misclassifications  
 
-![modello](project_images/modello.jpg) 
-
 <div align="center">
   <img src="project_images/NN.jpeg" width="400">
 </div>
