@@ -102,7 +102,7 @@ The system can distinguish **8 odor classes**:
 - 🌦️ Variable **humidity, temperature, and time of day**  
 - 🗃️ Final dataset: **86,912 instances**  
 
-![distribuzioni_dati](project_images/distribuzioni_dati.jpg) 
+
 
 ---
 
