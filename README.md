@@ -156,13 +156,9 @@ The system can distinguish **8 odor classes**:
 - 🔔 Sound + haptic notifications  
 - 🔇 Sound toggle via **Wio Terminal button** (icon updates on screen).  
  
-<p align="center">
-  <img src="project_images/coffee_on_wio.jpg" alt="Image 1" width="22%"/>
-  <img src="project_images/interfacce_coffee_gouge.jpg" alt="Image 2" width="22%"/>
-  <img src="project_images/lighter_gas_on_wio.jpg" alt="Image 3" width="22%"/>
-  <img src="project_images/lighter_gas_interfacce.jpg" alt="Image 4" width="22%"/>
-</p>
-
+<div align="center">
+  <img src="project_images/mosaico.png" width="400">
+</div>
 ---
 
 ## 🎙️ Alexa Skill  
