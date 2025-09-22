@@ -29,7 +29,10 @@ The project is based on **4 main components**:
    - Odor classification capability  
    - Internet connectivity + integrated display
 
-![Electronic_Nose](project_images/Electronic_Nose.jpg)
+<div align="center">
+  <img src="project_images/Electronic_Nose.jpg" width="400">
+</div>
+
 
 2. ☁️ **Blynk Cloud**  
    - Data storage and management  
