@@ -157,7 +157,7 @@ The system can distinguish **8 odor classes**:
 - 🔇 Sound toggle via **Wio Terminal button** (icon updates on screen).  
  
 <div align="center">
-  <img src="project_images/mosaico.p  NG" width="400">
+  <img src="project_images/mosaico.PNG" width="400">
 </div>
 
 ---
