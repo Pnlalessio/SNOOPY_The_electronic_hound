@@ -93,10 +93,6 @@ The system can distinguish **8 odor classes**:
 
 👉 In particular, **lighter gas** detection was designed as a simulation of a **gas leak**.  
 
-![martini](project_images/martini.jpg)
-![distribuzioni_dati](project_images/distribuzioni_dati.jpg)
-![metrics](project_images/metrics.jpg)
-
 ---
 
 ## 📊 Data Collection  
