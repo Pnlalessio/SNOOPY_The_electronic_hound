@@ -160,6 +160,7 @@ The system can distinguish **8 odor classes**:
   <img src="project_images/lighter_gas_on_wio.jpg" alt="Image 3" width="22%"/>
   <img src="project_images/lighter_gas_interfacce.jpg" alt="Image 4" width="22%"/>
 </p>
+
 ---
 
 ## 🎙️ Alexa Skill  
